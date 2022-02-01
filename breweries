@@ -1,0 +1,634 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Casual Pint Falls Church",
+        "Type": "Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.16130346059799,
+          38.87250438825617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Adroit Theory Brewing",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.72034555673599,
+          39.143980367367774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "B Chord Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.82407999038696,
+          39.12127110893672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Name": "Lost Creek Winery",
+        "Type": "Winery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49577760696411,
+          39.20031719120432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Barnhouse Brewery",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49828815460204,
+          39.20428295973623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Bear Chase Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.84593462944031,
+          39.110686904830786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Belly Love Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.70387411117554,
+          39.13771238674941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Beltway Brewing Co.",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41704940795898,
+          38.99227538951406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Black Hoof Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5649356842041,
+          39.11506978228898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Black Walnut Brewery",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.56554186344147,
+          39.11290127015258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Crooked Run Fermentation",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.56310105323792,
+          39.11235184765316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Crooked Run Fermentation",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42277324199677,
+          38.9945184862778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Dirt Farm Brewing",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8363698720932,
+          39.09988046991529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Dynasty Brewing",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44947731494904,
+          39.03164432977289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Dynasty Brewing Company - Leesburg",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.56350338459015,
+          39.1136296645895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Flying Ace Farm",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.58272945880888,
+          39.27696148856164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Harpers Ferry Brewing",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.70839631557465,
+          39.32059138562291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Harvest Gap Brewery",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.69689500331879,
+          39.18852248752332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Hillsborough Vineyards & Brewery",
+        "Type": [
+          "Winery",
+          "Brewery"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73385047912598,
+          39.20580435867922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "House 6 Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46383249759674,
+          39.05686310712131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Lost Barrel Brewing",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.75588750839233,
+          38.969298317199836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Lost Rhino Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47556447982788,
+          39.016086943181236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Loudoun Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5590831041336,
+          39.11282634915487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Notaviva Farm Brewery & Winery",
+        "Type": [
+          "Winery",
+          "Brewery"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.74783283472061,
+          39.252901530948286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Ocelot Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49925374984741,
+          38.96299604238614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Old 690 Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.72713422775269,
+          39.183537102181475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Old Ox Brewery",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4551796913147,
+          39.02396816882601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Old Ox Brewery - Middleburg",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73535788059235,
+          38.96840160152305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "beer",
+        "Name": "Quattro Goombas Brewery",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6173460483551,
+          38.98574165239377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Rocket Frog Brewing",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42469906806946,
+          38.9949812724876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Solace Brewing Company",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52820551395416,
+          38.95088626006364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40989327430725,
+          39.03350281884573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "The Craft Of Brewing (TCOB) Brewery",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44890868663788,
+          39.0315901578337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Twinpanzee Brewing Co",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44470834732054,
+          38.98452406738994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Vanish Farmwoods Brewery",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53798484802246,
+          39.223169249570226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Wheatland Spring Farm + Brewery",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.67024457454681,
+          39.20019247787109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "Name": "Caboose Brewing Company & Tavern",
+        "Type": "Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2704291343689,
+          38.907799047712516
+        ]
+      }
+    }
+  ]
+}
